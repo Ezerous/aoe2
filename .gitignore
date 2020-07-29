@@ -1,0 +1,12 @@
+# Node
+/node_modules
+package-lock.json
+
+# Yarn
+yarn.lock
+
+# Jetbrains
+.idea
+
+# npm
+*.tgz

@@ -1,0 +1,18 @@
+{
+  "name": "aoe2",
+  "version": "0.1.0",
+  "description": "Client for aoe2.net API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ezerous/aoe2.git"
+  },
+  "author": "Ezerous <ezerous@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.19.2"
+  }
+}

@@ -1,0 +1,8 @@
+# Git
+.gitattributes
+
+# Jetbrains
+.idea
+
+# npm
+*.tgz
